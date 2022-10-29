@@ -9,3 +9,6 @@ Cereal
 Cucumbers
 Raddishes
 potatos
+Avocados
+Beans
+
