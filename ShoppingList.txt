@@ -8,5 +8,7 @@ Carrots
 Cereal
 Cucumbers
 Raddishes
+potatos
 Avocados
 Beans
+
